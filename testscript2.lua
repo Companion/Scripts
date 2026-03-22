@@ -1,4 +1,3 @@
--- Test script 2 (no key - loaded after loader passes)
 local plr = game:GetService("Players").LocalPlayer
 local rexurl = "https://raw.githubusercontent.com/Companion/owenn/refs/heads/main/owennui.lua"
 local Rex = loadstring(game:HttpGet(rexurl))()
